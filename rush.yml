@@ -7,7 +7,7 @@ description: This extension fix the current one signal issue in kodular. <br> De
 
 version:
   number: auto
-  name: '1'
+  name: '1.1.0'
 
 authors:
   - Sumit Kumar
