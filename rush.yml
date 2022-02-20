@@ -7,7 +7,7 @@ description: This extension fix the current one signal issue in kodular. <br> De
 
 version:
   number: auto
-  name: '1.1.0'
+  name: '1.2.0'
 
 authors:
   - Sumit Kumar
@@ -24,6 +24,7 @@ assets:
   icon: icon.png
 
 deps:
+  - Analytics.jar
   - firebase-messaging.jar
   - firebase-app.jar
   - firebase-iidd.jar
